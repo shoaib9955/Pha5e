@@ -10,15 +10,15 @@ import {
 import Navbar from '../components/Header/Navbar';
 import Footer from '../components/Footer/Footer';
 
-import Splash from '../components/splash/Splash';
 import Conent from '../components/content/Conent';
-import Video from '../components/vid/video';
+import Video from "../components/vid/Video";
+
 import Content2 from '../components/content/Content2';
 import Content3 from '../components/content/content3';
 import Content4 from '../components/content/Content4';
 
 import Ourteam from '../components/navlist/Ourteam';
-import Ourvision from '../components/navlist/ourvision';
+import Ourvision from '../components/navlist/Ourvision';
 import Contact from '../components/navlist/Contact';
 import Language from '../components/navlist/Language';
 
