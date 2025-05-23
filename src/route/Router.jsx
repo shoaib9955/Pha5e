@@ -9,14 +9,11 @@ import {
 
 import Navbar from '../components/Header/Navbar';
 import Footer from '../components/Footer/Footer';
-
 import Conent from '../components/content/Conent';
 import Video from "../components/vid/Video";
-
 import Content2 from '../components/content/Content2';
-import Content3 from '../components/content/content3';
+import Content3 from '../components/content/Content3';
 import Content4 from '../components/content/Content4';
-
 import Ourteam from '../components/navlist/Ourteam';
 import Ourvision from '../components/navlist/Ourvision';
 import Contact from '../components/navlist/Contact';
